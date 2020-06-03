@@ -1,6 +1,4 @@
 .vscode
 *.pyc
 __pycache__
-adv.py
-player.py
-room.py
+*.py
